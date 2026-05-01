@@ -2,7 +2,7 @@ import { Outlet, Link, createRootRoute, HeadContent, Scripts } from "@tanstack/r
 
 import appCss from "../styles.css?url";
 
-const SITE_URL = "https://sareyu-bridal-glow.lovable.app";
+const SITE_URL = "https://sareyu-bridal-glow.com";
 const OG_IMAGE = "https://res.cloudinary.com/dadu9qcfz/image/upload/v1777482222/IMG-20260429-WA0002_zto43i.jpg";
 const TITLE = "Sareyu World — Best Bridal Makeup Artist, Hair & Nail Studio in Hyderabad | Mathangi Saraswathi";
 const DESCRIPTION = "Sareyu World by Mathangi Saraswathi — top-rated bridal makeup artist, hair designer & nail artist in Hyderabad. Bridal makeup, party makeup, HD airbrush, hairstyling, nail art & on-location services. Book Sareyu Makeup Artist today.";
@@ -121,7 +121,7 @@ const STRUCTURED_DATA = {
         {
           "@type": "Question",
           name: "How can I book Sareyu for my wedding?",
-          acceptedAnswer: { "@type": "Answer", text: "You can book Sareyu World by calling +91 9133492986 or messaging on WhatsApp directly from sareyu-bridal-glow.lovable.app." },
+          acceptedAnswer: { "@type": "Answer", text: "You can book Sareyu World by calling +91 9133492986 or messaging on WhatsApp directly from sareyu-bridal-glow.com." },
         },
       ],
     },

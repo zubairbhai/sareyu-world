@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://sareyu-bridal-glow.lovable.app/sitemap.xml
+Sitemap: https://sareyu-bridal-glow.com/sitemap.xml
